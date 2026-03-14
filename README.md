@@ -33,4 +33,5 @@ Original cost: ~$600
 ![[pictures/nfc.jpg]]
 
 ![[pictures/charger.jpg]]
+![Charger](pictures/charger.jpg)
 

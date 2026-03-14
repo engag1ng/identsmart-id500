@@ -26,12 +26,10 @@ Total cost: ~ $95
 Original cost: ~$600
 
 # Gallery
-![[pictures/full.jpg]]
+<img src="pictures/full.jpg" style="width: 400px" />
 
-![[pictures/phone.jpg]]
+<img src="pictures/phone.jpg" style="width: 400px" />
 
-![[pictures/nfc.jpg]]
+<img src="pictures/nfc.jpg" style="width: 400px" />
 
-![[pictures/charger.jpg]]
-![Charger](pictures/charger.jpg)
-
+<img src="pictures/charger.jpg" style="width: 400px" />
